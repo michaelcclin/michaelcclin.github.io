@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	background-color: gray;
+	border-bottom: 10px solid black;
+	border-top: 15px solid black;
+}
+
+h1 {
+	color: blue;
+	text-transform: uppercase;
+}
+
+hr {
+	width: 50%;
+}
+
+img {
+	float:right;
+	border: 1px solid black;
+	width: 250;
+	margin-top: 25;
+}
+
+p {
+	overflow: hidden;
+}
